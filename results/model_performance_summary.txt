@@ -1,0 +1,21 @@
+Parkinson's Disease Detection - Model Performance Summary
+==================================================
+
+
+SPIRAL DATASET RESULTS
+------------------------------
+
+RF Model: Accuracy = 0.8000
+SVM Model: Accuracy = 0.7667
+KNN Model: Accuracy = 0.6333
+
+Best model for spiral: RF (Accuracy: 0.8000)
+
+WAVE DATASET RESULTS
+------------------------------
+
+RF Model: Accuracy = 0.7000
+SVM Model: Accuracy = 0.7667
+KNN Model: Accuracy = 0.7667
+
+Best model for wave: SVM (Accuracy: 0.7667)

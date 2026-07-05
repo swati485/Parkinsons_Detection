@@ -1,0 +1,6 @@
+scikit-image
+opencv-python
+imutils
+scikit-learn
+xgboost
+matplotlib
